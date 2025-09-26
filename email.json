@@ -2,10 +2,10 @@
 echo '{"email": "23f1000659@ds.study.iitm.ac.in"}' > email.json
 
 # 2. Stage the file
-git add email.json
+git email.json
 
 # 3. Commit the file
-git commit -m "Add email.json"
+git commit -m "email.json"
 
 # 4. Push to your remote repository (replace 'main' with your branch name if different)
 git push -u origin main
