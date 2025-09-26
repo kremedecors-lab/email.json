@@ -1,0 +1,7 @@
+# 2. Stage the file
+git add email.json
+
+# 3. Commit the file
+git commit -m "email.json"
+
+
